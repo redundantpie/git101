@@ -1,3 +1,3 @@
 line 1
 
-delete line2 to create conflict (dev)
+add line 2
